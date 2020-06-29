@@ -1,2 +1,7 @@
-# reborn
-stocks analyze
+# Reborn
+
+简介：
+该项目主要是爬取A股的价格历史数据并分析
+
+
+
